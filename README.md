@@ -2,7 +2,7 @@
 
 #### API 
 
-This version only has the api builded using pointers to store data on memory, only to builds basic version or Rest.
+This version only has the api builded using mongodb to persist the data, only to builds basic version or Rest.
 
 #### Front 
 
